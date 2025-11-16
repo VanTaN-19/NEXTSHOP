@@ -1,3 +1,4 @@
+```mermaid
 quadrantChart
     title Ma trận BCG của Vinamilk (Dựa trên số liệu cung cấp)
     x-axis "Thị phần tương đối (Thấp)" --> "Thị phần tương đối (Cao)"
@@ -27,3 +28,4 @@ quadrantChart
 
     %% --- Ô DẤU HỎI (Tăng trưởng > 10%, Thị phần < 1.0) ---
     %% (Không có SBU nào trong ô này dựa trên dữ liệu)
+%%
