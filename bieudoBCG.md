@@ -1,4 +1,3 @@
-```mermaid
 quadrantChart
     title Ma trận BCG của Vinamilk (Dựa trên số liệu cung cấp)
     x-axis "Thị phần tương đối (Thấp)" --> "Thị phần tương đối (Cao)"
@@ -24,8 +23,7 @@ quadrantChart
     "Sữa đặc": [3.22, 9.5, 4600]
 
     %% --- Ô CON CHÓ (Tăng trưởng < 10%, Thị phần < 1.0) ---
-    "Kem ăn": [0.37, 2.1, 500] %% Doanh thu "Không đáng kể", dùng giá trị nhỏ tượng trưng
-
+    "Kem ăn": [0.37, 2.1, 500] %% Doanh thu "Không đáng kể"
+    
     %% --- Ô DẤU HỎI (Tăng trưởng > 10%, Thị phần < 1.0) ---
     %% (Không có SBU nào trong ô này dựa trên dữ liệu)
-%%
