@@ -1,3 +1,4 @@
+```mermaid
 quadrantChart
     title Ma trận BCG của Vinamilk (Dựa trên số liệu cung cấp)
     x-axis "Thị phần tương đối (Thấp)" --> "Thị phần tương đối (Cao)"
